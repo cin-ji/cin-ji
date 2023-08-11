@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React and Mojo and expanding my AI tools.
 - 💞️ Let's connect!
 - 📫 How to reach me : 
-- Discord : soup maker#6797
 - LinkedIn : https://www.linkedin.com/in/giologarbin/
 - Website: https://giologarbin.com/
 
